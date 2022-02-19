@@ -1,0 +1,67 @@
+button{
+  border: none;
+  background: none;
+  font-size: 14px;
+  color: blue;
+  text-align: left;
+  padding: 1px 2px;
+}
+.modal {
+  font-size: 13px;
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+  height: auto;
+  margin-top: calc(100vh - 85vh - 20px);
+  background: rgb(133, 221, 243);
+  border-radius: 10px;
+  padding: 5px;
+  border: 1px solid rgb(19, 5, 221);
+  overflow: auto;
+}
+/*max-height: 70vh;*/
+
+.modal > .header {
+  width: 97%;
+  border-bottom: 1px solid rgb(231, 46, 46);
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: blue;
+  padding: 5px;
+}
+.modal > .content {
+  width: 97%;
+  padding: 5px 5px;
+  border-bottom: 1px solid rgb(231, 46, 46);
+  font-size: 13px;
+  text-align: justify;
+  color: #0a0a0a;
+}
+
+.modal > .actions {
+  margin: auto;
+}
+.modal > .actions {
+  width: 70%;
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.modal > .close {
+  cursor: pointer;
+  position: absolute;
+  display: block;
+  padding: 2px 5px;
+  line-height: 20px;
+  right: 5px;
+  top: 5px;
+  font-size: 24px;
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid #ec1e1e;
+}
+#td{
+  color: rgb(187, 6, 15);
+}
