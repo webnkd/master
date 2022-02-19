@@ -18,7 +18,7 @@ export default function Layout() {
                   <li><Link to="/chatluong">C.Lượng</Link></li>
                   <li><Link to="/lienket">L.Kết</Link></li>
                   <li>
-                      <a href="https://drive.google.com/drive/folders/1grqAjkvzbcsCqKNc-uox35GWq0WLTGg8?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Link biểu mẫu!</strong></a>   
+                      <a href="https://drive.google.com/drive/folders/1WUJMXaOQNdqyz9CukwID7gomIMnMd9oh?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Link biểu mẫu!</strong></a>   
                   </li>
                 </ul>  
             </li>
