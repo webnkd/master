@@ -5,9 +5,7 @@ function App() {
   return (
     <div>
       <div>
-        123
       <Router />
-      234
       </div>
       <div className='footer'>
             &nbsp;&nbsp;12 Nguyễn Văn Bảo, P4, Q.GV, TP.HCM; 028 3895 5858<br/>
