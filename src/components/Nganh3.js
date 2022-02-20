@@ -1,6 +1,7 @@
 import React from "react";
 import '../css/popup.css';
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default ({ close }) => (
   <div className="modal">
     <a className="close" onClick={close}> &times;</a>

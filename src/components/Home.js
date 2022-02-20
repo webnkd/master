@@ -6,10 +6,11 @@ export default function Home() {
             <div className='noidung'>
                 <br/>
                 <strong className='tieude'>CƠ SỞ CHÍNH:</strong><br/>
-                Chỉ tiêu: 8.000 - Mã tuyển sinh: IUH<br/> 
+                Chỉ tiêu: Hơn 8.000 - Mã tuyển sinh: IUH<br/> 
                 Đại trà: 36 ngành/nhóm ngành<br/>
                 CLC: 21 ngành/nhóm ngành<br/>
-                <br/>
+                Liên kết với Đại học ASU của Hoa Kỳ: 8 ngành<br/>
+                CLC Quốc Tế: 2 ngành<br/><br/>
                 <strong className='tieude'>PHÂN HIỆU QUẢNG NGÃI (1+3 và 2+2)</strong><br/>
                 Chỉ tiêu: 400 - Mã tuyển sinh: IUQ<br/>
                 Đại trà: 6 ngành (Cơ khí; Ô tô; Điện, Điện tử; CNTT; Kế toán; QTKD)<br/>
