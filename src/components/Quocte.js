@@ -43,7 +43,8 @@ export default function  Lienket (){
             stt: "6",
             ten: "Khoa học máy tính",
             manganh: "7480101K",
-            thm: "A00 (toán, lý, hóa), C01 (toán, lý, văn), D01 (toán, văn, anh), D90 (toán, anh, khtn)"
+            thm: "A00 (toán, lý, hóa), C01 (toán, lý, văn), D01 (toán, văn, anh), D90 (toán, anh, khtn)",
+            dc: ""
             },
             {
             stt: "7",
@@ -79,13 +80,13 @@ export default function  Lienket (){
                         ({item.dc}) <br/>
                     </div>
                 ))}
-                <br/><br/>
+                <br/>
                 <div>
                 <strong className='tieude'>II. Chương trình Quốc Tế Chất Lượng Cao</strong><br/>
-                1. Kế toán chất lượng cao <br/>
+                <strong>1. Kế toán chất lượng cao </strong><br/>
                 Tích hợp chứng chỉ quốc tế Advanced Diploma in Accounting và Business của Hiệp hội Kế toán công chứng Anh (ACCA)<br/>
                 Mã ngành: 7340301Q - THM: A00 (toán, lý, hóa), A01 (toán, lý, anh), D01 (toán, văn, anh), D90 (toán, anh, khtn)<br/>
-                2. Kiểm toán chất lượng cao <br/>
+                <strong>2. Kiểm toán chất lượng cao </strong><br/>
                 Tích hợp chứng chỉ quốc tế CFAB của Viện Kế toán Công chứng Anh và xứ Wales (ICAEW)]<br/>
                 Mã ngành: 7340302Q - THM: A00 (toán, lý, hóa), A01 (toán, lý, anh), D01 (toán, văn, anh), D90 (toán, anh, khtn)
                 </div>
